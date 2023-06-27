@@ -855,6 +855,9 @@ section {
   min-height: 60vh;
   padding: 160px 0 60px 0;
   display: flex;
+  background-color: rgba(221, 219, 219, 0.766);
+  background-blend-mode: hue;
+  background-image: url("/assets/img/bg.jpeg");
 }
 
 .hero h2 {
@@ -872,6 +875,7 @@ section {
 .hero p {
   color: #4f4f5a;
   font-weight: 600;
+  font-size: large;
   margin-bottom: 30px;
 }
 
